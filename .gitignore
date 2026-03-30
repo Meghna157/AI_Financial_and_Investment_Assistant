@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Cache & temp
+.cache/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
